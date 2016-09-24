@@ -1,0 +1,14 @@
+url.short
+define
+hi cyan
+ping cyan
+
+
+
+______
+GROUPS
+
+group.count
+getinfo
+kick
+whoami
